@@ -7,3 +7,10 @@ properties:
     type: string
   tag:
     type: string
+  color:
+    type: string
+    enum:
+      - gray
+      - brown
+      - white
+      - black
