@@ -1,7 +1,5 @@
 title: newPet
 type: object
-info:
-  version: 1.0.1
 required:
   - name
 properties:
